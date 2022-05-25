@@ -1,0 +1,15 @@
+Tell me about your proudest professional achievement.  It can also be a personal or school project.  
+
+In my previous job, I was assigned to help out a DevOps team that was getting set up at that time and I had no previous experience with Jenkins. We faced a problem with our application and I had to do a lot of research, read documentation to find out what was causing the problem, and troubleshoot our application. I found out the problem was happing because of a configuration mistake and there was a port clash with tomcat which was causing the application to fail. I was able to solve that by configuring Jenkins into tomcat. I would say it was a good learning experience and a proud moment for me. 
+
+
+
+Tell me about something you have read recently that you would recommend and why. (Can be a  Github Repo, Article, Blog, Book, etc) 
+		
+I’m really interested in sustainable energy especially solar and the engineering aspect of it. I recently read an article that it will soon be possible to generate energy from the sun  at night too with the help of thermal capture technology. It was a very interesting article to read, it gives you a broad perspective of the abundant sources of energy around us, that we can harness and also make environmentally friendly. I recommend this article because technological advancement doesn’t have to come at the cost of a disrupted ecosystem and this article shows that we can head in the right direction of innovation.
+
+
+
+How would you explain to your grandmother what Availity does?
+
+Availity makes it easy for your healthcare providers to focus more on you rather than the paperwork. By digitalizing most of the paperwork your healthcare provider can get your records and information easily so that they can take care of you and save your time. 
