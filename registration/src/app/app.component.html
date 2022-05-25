@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<h2>Welcome to Availity</h2>
+<body>
+
+  <form [formGroup]="registerUser" (ngSubmit)="onSubmit()">
+    <p>First Name</p>
+    <input type="text" formControlName="firstName">
+    <p>Last Name</p>
+    <input type="text" formControlName="lastName">
+    <p>NPI Number</p>
+    <input type="text" formControlName="npiNumber">
+    <div>
+      <h4>Business Address</h4>
+      <p>Address Line 1</p>
+      <input type="text" formControlName = "addressLine1">
+      <p>Address Line 2 (optional)</p>
+      <input type="text" name = "addressLine1">
+      <p>City</p>
+      <input type="text" formControlName = "city">
+      <p>State</p>
+      <select >
+        <option value="CA">California</option>
+        <option value="VA">Virginia</option>
+      </select>
+      <p>ZipCode</p>
+      <input type="number" formControlName = "zipcode">
+    </div>
+    <p>Telephone Number</p>
+    <input type="text" formControlName="phoneNumber">
+    <p>Email Address </p>
+    <input type="email" formControlName="email"><br><br>
+    <input type="button" value="Submit">
+  </form>
+
+</body>
+
+
+
+</html>
